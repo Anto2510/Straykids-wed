@@ -1,2 +1,2 @@
-# Straykids-wed
+# Straykids-web
 Guía  para convertirte en Stay 
