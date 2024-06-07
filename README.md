@@ -1,2 +1,2 @@
 # Straykids-web
-Guía  para convertirte en Stay 
+Guía  para convertirse en Stay 
